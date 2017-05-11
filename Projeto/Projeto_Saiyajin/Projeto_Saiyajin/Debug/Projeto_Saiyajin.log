@@ -1,0 +1,5 @@
+﻿  Projeto_Saiyajin.cpp
+c:\users\cibyl\documents\visual studio 2017\projects\projeto_saiyajin\projeto_saiyajin\projeto_saiyajin.cpp(439): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1467): note: consulte a declaração de 'vsprintf'
+  Projeto_Saiyajin.vcxproj -> c:\users\cibyl\documents\visual studio 2017\Projects\Projeto_Saiyajin\Debug\Projeto_Saiyajin.exe
+  Projeto_Saiyajin.vcxproj -> c:\users\cibyl\documents\visual studio 2017\Projects\Projeto_Saiyajin\Debug\Projeto_Saiyajin.pdb (Partial PDB)
